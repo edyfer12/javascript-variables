@@ -1,0 +1,1 @@
+//Declare and initialize a variable
